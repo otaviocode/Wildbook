@@ -1,7 +1,6 @@
 package com.reijns.I3S;
 
 //affine class
-//
 public class Affine {
 
   public static void calcAffine(double from1x, double from1y, double from2x, double from2y, double from3x, double from3y,
